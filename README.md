@@ -1,4 +1,4 @@
-# Think in Safety（TiS）
+# 🥗SaLAD
 
 [🌐Website] | [📖Paper] | [🤗Data] 
 
