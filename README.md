@@ -14,7 +14,7 @@ The official released dataset of paper"When Helpers Become Hazards: A Benchmark 
 
 ## 📁 Data
 
-You can find the dataset in this repo or at [Huggingface](https://huggingface.co/datasets/Holly301/SaLAD). Please unzip the images under ./images.
+You can find the dataset in this repo or at [Huggingface](https://huggingface.co/datasets/Holly301/SaLAD). Please unzip the images under ./images. The full version of SaLAD will be released once our paper is accepted.
 
 
 ## 📬 Contact
