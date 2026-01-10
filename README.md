@@ -22,6 +22,7 @@ You can find the dataset in this repo or at [Huggingface](https://huggingface.co
 - **Xinyue Lou : louxinyue@bjtu.edu.cn**
 
 ## 👋 Citation
+```bibtex
 @misc{lou2026helpershazardsbenchmarkanalyzing,
       title={When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life}, 
       author={Xinyue Lou and Jinan Xu and Jingyi Yin and Xiaolong Wang and Zhaolu Kang and Youwei Liao and Yixuan Wang and Xiangyu Shi and Fengran Mo and Su Yao and Kaiyu Huang},
