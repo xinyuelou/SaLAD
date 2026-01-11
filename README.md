@@ -1,6 +1,6 @@
 # 🥗SaLAD
 
-[🌐Website] | [📖Paper](http://arxiv.org/abs/2601.04043) | [🤗Data](https://huggingface.co/datasets/Holly301/SaLAD)
+[🌐Website](https://xinyuelou.github.io/SaLAD) | [📖Paper](http://arxiv.org/abs/2601.04043) | [🤗Data](https://huggingface.co/datasets/Holly301/SaLAD)
 
 The official released dataset of paper"When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life".
 
