@@ -17,8 +17,8 @@ authors:
   - "Kaiyu Huang<sup>1</sup>"
 affiliations:
   - "<sup>1</sup>Beijing Jiaotong University, "
-  - "<sup>2</sup>Tsinghua University "
-  - "<sup>3</sup>Peking University "
+  - "<sup>2</sup>Tsinghua University, "
+  - "<sup>3</sup>Peking University, "
   - "<sup>4</sup>University of Montreal"
 paper: http://arxiv.org/abs/2601.04043
 code: https://github.com/xinyuelou/SaLAD
