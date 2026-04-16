@@ -15,7 +15,7 @@ The official released dataset of ACL 2026 Findings long paper"When Helpers Becom
 
 ## 📁 Data
 
-You can find the dataset in this repo or at [Huggingface](https://huggingface.co/datasets/Holly301/SaLAD) or [Google Drive](https://drive.google.com/file/d/1ZJsh-cyVLk_A6FgvTSYavtMXMvkEjH7l/view?usp=sharing). Please unzip the images under ./images. 
+You can find the dataset in this repo or at [Huggingface](https://huggingface.co/datasets/Holly301/SaLAD) Images can be downloaded from [Google Drive](https://drive.google.com/file/d/1ZJsh-cyVLk_A6FgvTSYavtMXMvkEjH7l/view?usp=sharing) or [Huggingface](https://huggingface.co/datasets/Holly301/SaLAD). Please unzip the images under ./images. 
 
 
 ## 📬 Contact
