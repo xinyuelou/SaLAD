@@ -2,12 +2,13 @@
 
 [🌐Website](https://xinyuelou.github.io/SaLAD) | [📖Paper](http://arxiv.org/abs/2601.04043) | [🤗Data](https://huggingface.co/datasets/Holly301/SaLAD)
 
-The official released dataset of paper"When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life".
+The official released dataset of ACL 2026 Findings long paper"When Helpers Become Hazards: A Benchmark for Analyzing Multimodal LLM-Powered Safety in Daily Life".
 
 ---
 
 ## 🔔 Updates
 
+- **🎉[2026/04/06]** Our paper has been accepted by ACL 2026 Findings!
 - **🚀[2026/01/07]** We released [arXiv](http://arxiv.org/abs/2601.04043) and [data](https://github.com/xinyuelou/SaLAD).
 
 ---
